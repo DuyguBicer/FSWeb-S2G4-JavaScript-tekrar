@@ -124,6 +124,7 @@ sayilar.forEach((sayi) => {
     uceTamBolunenler.push(sayi)
   }
 })
+
 console.log(uceTamBolunenler)
 
 // 3c çözümü:
