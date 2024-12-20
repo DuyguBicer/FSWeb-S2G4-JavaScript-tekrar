@@ -1,4 +1,4 @@
-/* Aşağıda global olarak tanımlanmış değişkenler bulunmaktadır, bunları değiştirmeyiniz. Açıklamaları takip ederek görevleri tamamlayın. */
+
 
 const pi = 3.14159;
 
@@ -91,13 +91,6 @@ console.log(CemberinAlani(yaricap, pi))
 
 /*  (oto test yok) sayilar dizisi içinde kaç adet sayı olduğunu konsola yazdırın */
 
-let ucetambolunenler,
-  enkucuk,
-  enbuyuk,
-  ucebolunenlerintoplami,
-  besyuzdenkucuksayilar,
-  siralisayilar,
-  tekraredensayilar;
 
 // 3a çözümü
 
